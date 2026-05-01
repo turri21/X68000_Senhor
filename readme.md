@@ -2,6 +2,8 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
+Dev notes: Currently using this repo https://github.com/albconde/X68000_MiSTer
+
 ___
 # [Sharp X68000](https://en.wikipedia.org/wiki/X68000) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
